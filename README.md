@@ -26,6 +26,9 @@ link here
 * install npm dependencies 'npm i'
 * enter node server.js
 * use Insomnia to see and interact with the data 'localhost:3001/api'
+  
+![image](https://github.com/sjones-njones/E-Commerce-Back-End/assets/132145599/0be9a0e6-1faf-473d-b1dd-5a397e33d38d)
+![image](https://github.com/sjones-njones/E-Commerce-Back-End/assets/132145599/14bba25e-d92a-41ed-8b64-d1edee417ff6)
 
 
 
