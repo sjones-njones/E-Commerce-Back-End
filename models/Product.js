@@ -20,11 +20,10 @@ Product.init(
       allowNull: false,
     },
     price: {
-      type: DataTypes.Decimal(10, 2),
+      type: DataTypes.DECIMAL(10, 2),
       allowNull: false,
       validate: {
         isDecimal: true,
-        msg: "Must be an decimal number"
       }
     },
     stock: {
@@ -38,7 +37,7 @@ Product.init(
       type: DataTypes.INTEGER,
       references: {
         model: 'category',
-        key: 'category_id',
+        key: 'id',
       }
     },
   },
