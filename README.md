@@ -16,7 +16,7 @@ This app requires Mysql2, Express, NPM, Dotenv, and Sequelize to be installed to
 
 https://github.com/sjones-njones/Employee-Tracker.git
 
-link here
+https://watch.screencastify.com/v/iXTmrXAfyEtf0aADamYy
 
 ### To run this app:
 * open terminal
