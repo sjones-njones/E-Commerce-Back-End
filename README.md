@@ -6,11 +6,11 @@
 
 ## Description
 
-This app allows an E-Commerce company to view and manage products, tags, and categories fir their site. This is the first time I have used Sequelizer. I struggled the most with many-to-many association.  
+This app allows an E-Commerce company to view and manage products, tags, and categories for their site. This is the first time I have used Sequelizer. I struggled the most with many-to-many association.  
 
 ## Installation 
 
-This app requires Mysql2, Express, NPM, Dotenv, and Sequelize to be installed to run properly. The user must run the NPM i command in the console to install the dependencies.
+This app requires Mysql2, Express, NPM, Dotenv, and Sequelize to be installed in order to run properly. The user must run the NPM i command in the console to install the dependencies.
 
 ## Usage
 
@@ -22,7 +22,7 @@ https://watch.screencastify.com/v/iXTmrXAfyEtf0aADamYy
 * open terminal
 * source the schema.sql
 * input the seed data with 'npm run seed'
-* input personal user and password in the .env folder 
+* input personal user and password in the .env file 
 * install npm dependencies 'npm i'
 * enter node server.js
 * use Insomnia to see and interact with the data 'localhost:3001/api'
