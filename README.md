@@ -14,7 +14,7 @@ This app requires Mysql2, Express, NPM, Dotenv, and Sequelize to be installed to
 
 ## Usage
 
-https://github.com/sjones-njones/Employee-Tracker.git
+https://github.com/sjones-njones/E-Commerce-Back-End.git
 
 https://watch.screencastify.com/v/iXTmrXAfyEtf0aADamYy
 
